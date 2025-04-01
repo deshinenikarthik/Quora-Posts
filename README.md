@@ -26,5 +26,5 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/express-blog-app.git
-   cd express-blog-app
+   git clone https://github.com/deshinenikarthik/Quora-Posts.git
+   cd Quora-Posts
